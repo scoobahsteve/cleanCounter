@@ -1,0 +1,18 @@
+#countup p {
+display: inline-block;
+padding: 5px;
+background: #FFA500;
+margin: 50 0 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
